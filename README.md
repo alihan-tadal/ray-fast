@@ -1,4 +1,8 @@
 # adCreative.ai Case Çözüm
+TODO:
+- Parametreleri environment degiskeni olarak gec.
+- Endpoint'lardaki parametreler icin dogrulama yaz.
+- Image boyutunu dusur.
 
 ## Task1
 Stable Diffusion’un Img2Img algoritmasını kullanarak verilen görsele benzer yeni
