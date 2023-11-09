@@ -1,0 +1,10 @@
+ray
+ray[serve]
+opencv-contrib-python
+diffusers 
+transformers 
+accelerate
+imgkit
+wkhtmltopdf
+jinja2
+python-multipart
